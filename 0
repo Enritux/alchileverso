@@ -1,0 +1,11 @@
+{
+"name": "Demo #0",
+"description": "The Funky Crocs are a collection of 10,000 hand-drawn crocodiles  basking on the Ethereum blockchain that dress to impress and are ready for a killer, anything goes swamp-sized adventure.",
+"image": "https://storage.googleapis.com/funkycrocs/c74f1cef1c4fff1514910fe88aa2a2fd6840f5f5",
+"attributes": [
+{
+"trait_type": "Unique",
+"value": "Genesis"
+}
+]
+}
